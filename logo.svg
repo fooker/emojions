@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="68.985771mm"
+   height="22.438883mm"
+   viewBox="0 0 68.985771 22.438883"
+   version="1.1"
+   id="svg3803"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3805"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="278.37974"
+     inkscape:cy="523.9711"
+     inkscape:window-width="2556"
+     inkscape:window-height="1396"
+     inkscape:window-x="2560"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3800" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.691254,-21.302916)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.9;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="27.691254"
+       y="29.157709"
+       id="text6823"><tspan
+         sodipodi:role="line"
+         id="tspan6821"
+         style="stroke-width:0.264583"
+         x="27.691254"
+         y="29.157709">Strong</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="27.691254"
+         y="38.682678"
+         id="tspan6935">    Emojions<tspan
+   style="font-size:4.93889px;fill:#808080"
+   id="tspan22951">.de</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="55.134304"
+       y="-51.246643"
+       id="text9921"
+       transform="rotate(75.253013)"><tspan
+         sodipodi:role="line"
+         id="tspan9919"
+         style="stroke-width:0.264583"
+         x="55.134304"
+         y="-51.246643">)</tspan></text>
+  </g>
+</svg>
