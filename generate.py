@@ -27,6 +27,11 @@ def slurp(name: str) -> Path:
     for elem in soup.find_all(style=True):
         elem['style'] = re.sub('fill:.+;', STYLE, elem['style'])
 
+    for elem in soup.find_all(fill=True) + soup.find_all(stroke=True):
+        del elem['fill']
+        del elem['stroke']
+        elem['style'] = STYLE
+
     outline = CACHE / f'{sym}.svg'
     with outline.open('wb') as f:
         f.write(soup.prettify('utf-8'))
