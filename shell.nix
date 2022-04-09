@@ -5,6 +5,9 @@ let
     beautifulsoup4
     svgwrite
     cairosvg
+    click
+    bpython
+    nototools
   ]);
 in
   py.env
